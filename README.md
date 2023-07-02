@@ -12,4 +12,5 @@
 **Q4.** [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) [(Solution)](/Arrays/Q4_chocolote_distribution_problem.cpp)\
 **Q5.** [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) [(Solution)](/Arrays//Q5_find_the_duplicate_number.cpp)\
 **Q6.** [Sort Colors](https://leetcode.com/problems/sort-colors/description/) [(Solution)](/Arrays/Q6_sort_colors.cpp)\
-**Q7.** [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Solution)](/Arrays/Q7_remove_duplicates_from_sorted_array.cpp)
+**Q7.** [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [(Solution)](/Arrays/Q7_remove_duplicates_from_sorted_array.cpp)\
+**Q8.** [Two Sum](https://leetcode.com/problems/two-sum/description/) [(Solution)](/Arrays/Q8_two_sum.cpp)
