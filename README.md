@@ -8,4 +8,5 @@
 
 **Q1.** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) [(Solution)](/Arrays/Q1_set_matrix_zeroes.cpp)\
 **Q2.** [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [(Solution)](/Arrays/Q2_move_zeroes.cpp)\
-**Q3.** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) [(Solution)](/Arrays/Q3_best_time_to_buy_and_sell_stock.cpp)
+**Q3.** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) [(Solution)](/Arrays/Q3_best_time_to_buy_and_sell_stock.cpp)\
+**Q4.** [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) [(Solution)](/Arrays/Q4_chocolote_distribution_problem.cpp)
