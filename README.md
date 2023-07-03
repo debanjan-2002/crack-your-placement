@@ -23,4 +23,5 @@
 **Q15.** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) [(Solution)](/Arrays/Q15_maximum_points_you_can_obtain_from_cards.cpp)\
 **Q16.** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) [(Solution - Hash Table - IMP)](/Arrays/Q16_subarray_sum_equals_K.cpp)\
 **Q17.** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Solution)](/Arrays/Q17_spiral_matrix.cpp)\
-**Q18.** [Word Search](https://leetcode.com/problems/word-search/description/) [(Solution - DFS)](/Arrays/Q18_word_search.cpp)
+**Q18.** [Word Search](https://leetcode.com/problems/word-search/description/) [(Solution - DFS)](/Arrays/Q18_word_search.cpp)\
+**Q19.** [Jump Game](https://leetcode.com/problems/jump-game/description/) [(Solution - DP)](/Arrays/Q19_jump_game.cpp)
