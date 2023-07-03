@@ -19,4 +19,5 @@
 **Q11.** [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) [(Solution)](/Arrays/Q11_find_all_duplicates_in_an_array.cpp)\
 **Q12.** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) [(Solution - IMP)](/Arrays/Q12_container_with_most_water.cpp)\
 **Q13.** [3 Sum](https://leetcode.com/problems/3sum/description/) [(Solution)](/Arrays/Q13_3_sum.cpp)\
-**Q14.** [4 Sum](https://leetcode.com/problems/4sum/description/) [(Solution)](/Arrays/Q14_4_sum.cpp)
+**Q14.** [4 Sum](https://leetcode.com/problems/4sum/description/) [(Solution)](/Arrays/Q14_4_sum.cpp)\
+**Q15.** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) [(Solution)](/Arrays/Q15_maximum_points_you_can_obtain_from_cards.cpp)
