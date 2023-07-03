@@ -18,4 +18,5 @@
 **Q10.** [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) [(Solution - Hash Table)](/Arrays/Q10_subarray_sums_divisible_by_K.cpp)\
 **Q11.** [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) [(Solution)](/Arrays/Q11_find_all_duplicates_in_an_array.cpp)\
 **Q12.** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) [(Solution - IMP)](/Arrays/Q12_container_with_most_water.cpp)\
-**Q13.** [3 Sum](https://leetcode.com/problems/3sum/description/) [(Solution)](/Arrays/Q13_3_sum.cpp)
+**Q13.** [3 Sum](https://leetcode.com/problems/3sum/description/) [(Solution)](/Arrays/Q13_3_sum.cpp)\
+**Q14.** [4 Sum](https://leetcode.com/problems/4sum/description/) [(Solution)](/Arrays/Q14_4_sum.cpp)
