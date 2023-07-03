@@ -20,4 +20,5 @@
 **Q12.** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) [(Solution - IMP)](/Arrays/Q12_container_with_most_water.cpp)\
 **Q13.** [3 Sum](https://leetcode.com/problems/3sum/description/) [(Solution)](/Arrays/Q13_3_sum.cpp)\
 **Q14.** [4 Sum](https://leetcode.com/problems/4sum/description/) [(Solution)](/Arrays/Q14_4_sum.cpp)\
-**Q15.** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) [(Solution)](/Arrays/Q15_maximum_points_you_can_obtain_from_cards.cpp)
+**Q15.** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) [(Solution)](/Arrays/Q15_maximum_points_you_can_obtain_from_cards.cpp)\
+**Q16.** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) [(Solution - Hash Table - IMP)](/Arrays/Q16_subarray_sum_equals_K.cpp)
