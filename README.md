@@ -25,4 +25,5 @@
 **Q17.** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) [(Solution)](/Arrays/Q17_spiral_matrix.cpp)\
 **Q18.** [Word Search](https://leetcode.com/problems/word-search/description/) [(Solution - DFS)](/Arrays/Q18_word_search.cpp)\
 **Q19.** [Jump Game](https://leetcode.com/problems/jump-game/description/) [(Solution - DP)](/Arrays/Q19_jump_game.cpp)\
-**Q20.** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) [(Solution - O(1) Space)](/Arrays/Q20_merge_sorted_array.cpp)
+**Q20.** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) [(Solution - O(1) Space)](/Arrays/Q20_merge_sorted_array.cpp)\
+**Q21.** [Majority Element](https://leetcode.com/problems/majority-element/description/) [(Solution - Voting Algorithm - O(1) Space)](/Arrays/Q21_majority_element.cpp)
