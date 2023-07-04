@@ -27,4 +27,5 @@
 **Q19.** [Jump Game](https://leetcode.com/problems/jump-game/description/) [(Solution - DP)](/Arrays/Q19_jump_game.cpp)\
 **Q20.** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) [(Solution - O(1) Space)](/Arrays/Q20_merge_sorted_array.cpp)\
 **Q21.** [Majority Element](https://leetcode.com/problems/majority-element/description/) [(Solution - Voting Algorithm - O(1) Space)](/Arrays/Q21_majority_element.cpp)\
-**Q22.** [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) [(Solution - Merge Sort Application)](/Arrays/Q22_reverse_pairs.cpp)
+**Q22.** [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) [(Solution - Merge Sort Application)](/Arrays/Q22_reverse_pairs.cpp)\
+**Q23.** [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/) [(Solution - Backtracking)](/Arrays/Q23_print_all_possible_combinations_of_r_elements_in_a_given_array_of_size_n.cpp)
