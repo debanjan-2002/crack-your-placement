@@ -30,4 +30,5 @@
 **Q22.** [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) [(Solution - Merge Sort Application)](/Arrays/Q22_reverse_pairs.cpp)\
 **Q23.** [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/) [(Solution - Backtracking)](/Arrays/Q23_print_all_possible_combinations_of_r_elements_in_a_given_array_of_size_n.cpp)\
 **Q24.** [Game of Life](https://leetcode.com/problems/game-of-life/description/) [(Solution)](/Arrays/Q24_game_of_life.cpp)\
-**Q25.** [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/) [(Solution - Maths + Heap)](/Arrays//Q25_max_value_of_equation.cpp)
+**Q25.** [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/) [(Solution - Maths + Heap)](/Arrays//Q25_max_value_of_equation.cpp)\
+**Q26.** [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) [(Solution)](</Arrays/Q26_insert_delete_getRandom_O(1)_duplicates_allowed.cpp>)
