@@ -33,3 +33,7 @@
 **Q25.** [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/) [(Solution - Maths + Heap)](/Arrays//Q25_max_value_of_equation.cpp)\
 **Q26.** [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) [(Solution)](</Arrays/Q26_insert_delete_getRandom_O(1)_duplicates_allowed.cpp>)\
 **Q27.** [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) [(Solution - Stack)](/Arrays/Q27_largest_rectangle_in_histogram.cpp)
+
+### Linked List
+
+**Q1.** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Solution)](/Linked%20List/Q1_middle_of_the_linked_list.cpp)
