@@ -39,4 +39,5 @@
 **Q1.** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Solution)](/Linked%20List/Q1_middle_of_the_linked_list.cpp)\
 **Q2.** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [(Solution - Floyd Cycle Detection Algorithm)](/Linked%20List/Q2_linked_list_cycle.cpp)\
 **Q3.** [Convert Binary Number in Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [(Solution)](/Linked%20List/Q3_convert_binary_number_in_linked_list_to_integer.cpp)\
-**Q4.** [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Solution)](/Linked%20List/Q4_remove_duplicates_from_sorted_list.cpp)
+**Q4.** [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [(Solution)](/Linked%20List/Q4_remove_duplicates_from_sorted_list.cpp)\
+**Q5.** [Sort a Linked List of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) [(Solution - Dummy Nodes concept - IMP)](/Linked%20List/Q5_sort_a_linked_list_of_0s_1s_and_2s.cpp)
