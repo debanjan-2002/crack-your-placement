@@ -36,4 +36,5 @@
 
 ### Linked List
 
-**Q1.** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Solution)](/Linked%20List/Q1_middle_of_the_linked_list.cpp)
+**Q1.** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [(Solution)](/Linked%20List/Q1_middle_of_the_linked_list.cpp)\
+**Q2.** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [(Solution - Floyd Cycle Detection Algorithm)](/Linked%20List/Q2_linked_list_cycle.cpp)
