@@ -49,4 +49,5 @@
 **Q11.** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) [(Solution)](/Linked%20List/Q11_palindrome_linked_list.cpp)\
 **Q12.** [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) [(Solution - Special Problem - IMP)](/Linked%20List/Q12_copy_list_with_random_pointer.cpp)\
 **Q13.** [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) [(Solution - Stack)](/Linked%20List/Q13_add_two_numbers_II.cpp)\
-**Q14.** [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) [(Solution - IMP)](/Linked%20List/Q14_reverse_linked_list_II.cpp)
+**Q14.** [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) [(Solution - IMP)](/Linked%20List/Q14_reverse_linked_list_II.cpp)\
+**Q15.** [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Solution - One Pass solution)](/Linked%20List/Q15_remove_nth_node_from_end_of_list.cpp)
