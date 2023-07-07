@@ -52,4 +52,5 @@
 **Q14.** [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) [(Solution - IMP)](/Linked%20List/Q14_reverse_linked_list_II.cpp)\
 **Q15.** [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Solution - One Pass solution)](/Linked%20List/Q15_remove_nth_node_from_end_of_list.cpp)\
 **Q16.** [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) [(Solution - Recursion - V.V.V.IMP)](/Linked%20List/Q16_flatten_a_multilevel_doubly_linked_list.cpp)\
-**Q17.** [Partition List](https://leetcode.com/problems/partition-list/description/) [(Solution - Dummy Nodes concept - V.V.IMP)](/Linked%20List/Q17_partition_list.cpp)
+**Q17.** [Partition List](https://leetcode.com/problems/partition-list/description/) [(Solution - Dummy Nodes concept - V.V.IMP)](/Linked%20List/Q17_partition_list.cpp)\
+**Q18.** [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Solution - V.IMP)](/Linked%20List/Q18_remove_duplicates_from_sorted_list_II.cpp)
