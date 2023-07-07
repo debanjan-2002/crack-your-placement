@@ -46,4 +46,5 @@
 **Q8.** [Multiply Two Number represented by Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) [(Solution)](/Linked%20List/Q8_multiply_two_numbers_represented_by_linked_lists.cpp)\
 **Q9.** [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [(Solution)](/Linked%20List/Q9_intersection_of_two_linked_lists.cpp)\
 **Q10.** [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) [(Solution)](/Linked%20List/Q10_delete_node_in_a_linked_list.cpp)\
-**Q11.** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) [(Solution)](/Linked%20List/Q11_palindrome_linked_list.cpp)
+**Q11.** [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) [(Solution)](/Linked%20List/Q11_palindrome_linked_list.cpp)\
+**Q12.** [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) [(Solution - Special Problem - IMP)](/Linked%20List/Q12_copy_list_with_random_pointer.cpp)
