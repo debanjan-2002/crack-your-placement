@@ -43,4 +43,5 @@
 **Q5.** [Sort a Linked List of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) [(Solution - Dummy Nodes concept - IMP)](/Linked%20List/Q5_sort_a_linked_list_of_0s_1s_and_2s.cpp)\
 **Q6.** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [(Solution - Recursive/Iterative)](/Linked%20List/Q6_reverse_linked_list.cpp)\
 **Q7.** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) [(Solution - Dummy Node/Recursive - IMP)](/Linked%20List/Q7_merge_two_sorted_lists.cpp)\
-**Q8.** [Multiply Two Number represented by Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) [(Solution)](/Linked%20List/Q8_multiply_two_numbers_represented_by_linked_lists.cpp)
+**Q8.** [Multiply Two Number represented by Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) [(Solution)](/Linked%20List/Q8_multiply_two_numbers_represented_by_linked_lists.cpp)\
+**Q9.** [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [(Solution)](/Linked%20List/Q9_intersection_of_two_linked_lists.cpp)
