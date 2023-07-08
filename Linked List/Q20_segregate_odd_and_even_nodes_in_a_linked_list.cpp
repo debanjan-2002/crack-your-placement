@@ -81,3 +81,6 @@ int main() {
         runner = runner->next;
     }
 }
+
+// Time Complexity  : O(n)
+// Space Complexity : O(1)
