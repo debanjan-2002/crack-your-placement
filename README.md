@@ -55,4 +55,5 @@
 **Q17.** [Partition List](https://leetcode.com/problems/partition-list/description/) [(Solution - Dummy Nodes concept - V.V.IMP)](/Linked%20List/Q17_partition_list.cpp)\
 **Q18.** [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Solution - V.IMP)](/Linked%20List/Q18_remove_duplicates_from_sorted_list_II.cpp)\
 **Q19.** [Linked List in Zig-Zag Fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) [(Solution)](/Linked%20List/Q19_linked_list_in_zig_zag_fashion.cpp)\
-**Q20,** [Segregate Odd and Even nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/) [(Solution - Dummy Nodes concept - IMP)](/Linked%20List/Q20_segregate_odd_and_even_nodes_in_a_linked_list.cpp)
+**Q20.** [Segregate Odd and Even nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/) [(Solution - Dummy Nodes concept - IMP)](/Linked%20List/Q20_segregate_odd_and_even_nodes_in_a_linked_list.cpp)\
+**Q21.** [Reorder List](https://leetcode.com/problems/reorder-list/description/) [(Solution - Dummy Node + Reversal - V.IMP)](/Linked%20List/Q21_reorder_list.cpp)
