@@ -58,4 +58,5 @@
 **Q20.** [Segregate Odd and Even nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/) [(Solution - Dummy Nodes concept - IMP)](/Linked%20List/Q20_segregate_odd_and_even_nodes_in_a_linked_list.cpp)\
 **Q21.** [Reorder List](https://leetcode.com/problems/reorder-list/description/) [(Solution - Dummy Node + Reversal - V.IMP)](/Linked%20List/Q21_reorder_list.cpp)\
 **Q22.** [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) [(Solution - Heap + Dummy Node concept - V.V.V.IMP)](/Linked%20List/Q22_merge_k_sorted_lists.cpp)\
-**Q23.** [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [(Solution - Recursion - V.V.IMP)](/Linked%20List/Q23_reverse_nodes_in_k_group.cpp)
+**Q23.** [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [(Solution - Recursion - V.V.IMP)](/Linked%20List/Q23_reverse_nodes_in_k_group.cpp)\
+**Q24.** [Sort List (Merge Sort)](https://leetcode.com/problems/sort-list/description/) [(Solution - Merge Sort in LL - V.IMP)](</Linked%20List/Q24_sort_list%20(merge%20sort).cpp>)
