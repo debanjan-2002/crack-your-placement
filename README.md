@@ -53,4 +53,5 @@
 **Q15.** [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [(Solution - One Pass solution)](/Linked%20List/Q15_remove_nth_node_from_end_of_list.cpp)\
 **Q16.** [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) [(Solution - Recursion - V.V.V.IMP)](/Linked%20List/Q16_flatten_a_multilevel_doubly_linked_list.cpp)\
 **Q17.** [Partition List](https://leetcode.com/problems/partition-list/description/) [(Solution - Dummy Nodes concept - V.V.IMP)](/Linked%20List/Q17_partition_list.cpp)\
-**Q18.** [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Solution - V.IMP)](/Linked%20List/Q18_remove_duplicates_from_sorted_list_II.cpp)
+**Q18.** [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [(Solution - V.IMP)](/Linked%20List/Q18_remove_duplicates_from_sorted_list_II.cpp)\
+**Q19.** [Linked List in Zig-Zag Fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) [(Solution)](/Linked%20List/Q19_linked_list_in_zig_zag_fashion.cpp)
