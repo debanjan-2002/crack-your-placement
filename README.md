@@ -61,3 +61,7 @@
 **Q23.** [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [(Solution - Recursion - V.V.IMP)](/Linked%20List/Q23_reverse_nodes_in_k_group.cpp)\
 **Q24.** [Sort List (Merge Sort)](https://leetcode.com/problems/sort-list/description/) [(Solution - Merge Sort in LL - V.IMP)](</Linked%20List/Q24_sort_list%20(merge%20sort).cpp>)\
 **Q25.** [Flattening a Linked List](https://www.geeksforgeeks.org/flattening-a-linked-list/) [(Solution)](/Linked%20List/Q25_flattening_a_linked_list.cpp)
+
+### Strings
+
+**Q1.** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Solution - Stack)](/Strings/Q1_valid_parentheses.cpp)
