@@ -22,3 +22,6 @@ int main() {
     string t = "geeksforgeeks";
     s.printDuplicatesAndCount(t);
 }
+
+// Time Complexity  : O(n)
+// Space Complexity : O(26) = O(1)
