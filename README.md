@@ -65,4 +65,5 @@
 ### Strings
 
 **Q1.** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [(Solution - Stack)](/Strings/Q1_valid_parentheses.cpp)\
-**Q2.** [Print all the Duplicates in the given string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) [(Solution)](/Strings/Q2_print_all_the_duplicates_in_the_given_string.cpp)
+**Q2.** [Print all the Duplicates in the given string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) [(Solution)](/Strings/Q2_print_all_the_duplicates_in_the_given_string.cpp)\
+**Q3.** [Implement strStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Solution - KMP Algorithm)](/Strings/Q3_implement_strstr.cpp)
