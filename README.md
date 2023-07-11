@@ -69,4 +69,5 @@
 **Q3.** [Implement strStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Solution - KMP Algorithm)](/Strings/Q3_implement_strstr.cpp)\
 **Q4.** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Solution)](/Strings/Q4_longest_common_prefix.cpp)\
 **Q5.** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Solution)](/Strings/Q5_valid_palindrome_II.cpp)\
-**Q6.** [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Solution)](/Strings/Q6_integer_to_roman.cpp)
+**Q6.** [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Solution)](/Strings/Q6_integer_to_roman.cpp)\
+**Q7.** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) [(Solution - Backtracking)](/Strings/Q7_generate_parentheses.cpp)
