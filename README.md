@@ -68,4 +68,5 @@
 **Q2.** [Print all the Duplicates in the given string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) [(Solution)](/Strings/Q2_print_all_the_duplicates_in_the_given_string.cpp)\
 **Q3.** [Implement strStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) [(Solution - KMP Algorithm)](/Strings/Q3_implement_strstr.cpp)\
 **Q4.** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) [(Solution)](/Strings/Q4_longest_common_prefix.cpp)\
-**Q5.** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Solution)](/Strings/Q5_valid_palindrome_II.cpp)
+**Q5.** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) [(Solution)](/Strings/Q5_valid_palindrome_II.cpp)\
+**Q6.** [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Solution)](/Strings/Q6_integer_to_roman.cpp)
