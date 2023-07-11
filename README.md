@@ -72,4 +72,5 @@
 **Q6.** [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) [(Solution)](/Strings/Q6_integer_to_roman.cpp)\
 **Q7.** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) [(Solution - Backtracking)](/Strings/Q7_generate_parentheses.cpp)\
 **Q8.** [Simplify Path](https://leetcode.com/problems/simplify-path/description/) [(Solution - V.V.IMP)](/Strings/Q8_simplify_path.cpp)\
-**Q9.** [Smallest Window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) [(Solution - Sliding Window + Hashing)](/Strings/Q9_smallest_window_in_a_string_containing_all_the_characters_of_another_string.cpp)
+**Q9.** [Smallest Window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) [(Solution - Sliding Window + Hashing)](/Strings/Q9_smallest_window_in_a_string_containing_all_the_characters_of_another_string.cpp)\
+**Q10.** [Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [(Solution - In place)](/Strings/Q10_reverse_words_in_string.cpp)
