@@ -78,4 +78,5 @@
 
 ### Trees
 
-**Q1.** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [(Solution)](/Trees/Q1_diameter_of_binary_tree.cpp)
+**Q1.** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [(Solution)](/Trees/Q1_diameter_of_binary_tree.cpp)\
+**Q2.** [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [(Solution)](/Trees/Q2_invert_binary_tree.cpp)
