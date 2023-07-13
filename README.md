@@ -83,4 +83,5 @@
 **Q3.** [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) [(Solution)](/Trees/Q3_subtree_of_another_tree.cpp)\
 **Q4.** [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) [(Solution)](/Trees/Q4_range_sum_of_BST.cpp)\
 **Q5.** [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) [(Solution)](/Trees/Q5_symmetric_tree.cpp)\
-**Q6.** [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) [(Solution - IMP)](/Trees/Q6_convert_sorted_array_to_binary_search_tree.cpp)
+**Q6.** [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) [(Solution - IMP)](/Trees/Q6_convert_sorted_array_to_binary_search_tree.cpp)\
+**Q7.** [Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/description/) [(Solution - V.V.IMP)](/Trees/Q7_merge_two_binary_tree.cpp)
