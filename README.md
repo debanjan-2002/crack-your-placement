@@ -80,4 +80,5 @@
 
 **Q1.** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [(Solution)](/Trees/Q1_diameter_of_binary_tree.cpp)\
 **Q2.** [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [(Solution)](/Trees/Q2_invert_binary_tree.cpp)\
-**Q3,** [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) [(Solution)](/Trees/Q3_subtree_of_another_tree.cpp)
+**Q3.** [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) [(Solution)](/Trees/Q3_subtree_of_another_tree.cpp)\
+**Q4.** [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) [(Solution)](/Trees/Q4_range_sum_of_BST.cpp)
