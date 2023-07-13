@@ -75,3 +75,7 @@
 **Q9.** [Smallest Window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) [(Solution - Sliding Window + Hashing)](/Strings/Q9_smallest_window_in_a_string_containing_all_the_characters_of_another_string.cpp)\
 **Q10.** [Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [(Solution - In place)](/Strings/Q10_reverse_words_in_string.cpp)\
 **Q12.** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [(Solution - Hashing)](/Strings/Q12_group_anagrams.cpp)
+
+### Trees
+
+**Q1.** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [(Solution)](/Trees/Q1_diameter_of_binary_tree.cpp)
