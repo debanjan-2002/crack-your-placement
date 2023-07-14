@@ -87,4 +87,5 @@
 **Q7.** [Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/description/) [(Solution - V.V.IMP)](/Trees/Q7_merge_two_binary_tree.cpp)\
 **Q8.** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [(Solution)](/Trees/Q8_maximum_depth_of_binary_tree.cpp)\
 **Q9.** [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) [(Solution)](/Trees/Q9_binary_tree_paths.cpp)\
-**Q10.** [Same Tree](https://leetcode.com/problems/same-tree/description/) [(Solution)](/Trees/Q10_same_tree.cpp)
+**Q10.** [Same Tree](https://leetcode.com/problems/same-tree/description/) [(Solution)](/Trees/Q10_same_tree.cpp)\
+**Q11.** [Lowest Common Ancestor of Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) [(Solution)](/Trees/Q11_lowest_common_ancestor_of_binary_search_tree.cpp)
