@@ -86,4 +86,5 @@
 **Q6.** [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) [(Solution - IMP)](/Trees/Q6_convert_sorted_array_to_binary_search_tree.cpp)\
 **Q7.** [Merge Two Binary Tree](https://leetcode.com/problems/merge-two-binary-trees/description/) [(Solution - V.V.IMP)](/Trees/Q7_merge_two_binary_tree.cpp)\
 **Q8.** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [(Solution)](/Trees/Q8_maximum_depth_of_binary_tree.cpp)\
-**Q9.** [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) [(Solution)](/Trees/Q9_binary_tree_paths.cpp)
+**Q9.** [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) [(Solution)](/Trees/Q9_binary_tree_paths.cpp)\
+**Q10.** [Same Tree](https://leetcode.com/problems/same-tree/description/) [(Solution)](/Trees/Q10_same_tree.cpp)
