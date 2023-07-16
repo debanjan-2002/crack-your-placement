@@ -94,4 +94,5 @@
 **Q14.** [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) [(Solution - IMP)](/Trees/Q14_sum_of_left_leaves.cpp)\
 **Q15.** [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) [(Solution - V.IMP)](/Trees/Q15_balanced_binary_tree.cpp)\
 **Q16.** [Predecessor And Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) [(Solution)](/Trees/Q16_predecessor_and_successor.cpp)\
-**Q17.** [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [(Solution)](/Trees/Q17_binary_tree_inorder_traversal.cpp)
+**Q17.** [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [(Solution)](/Trees/Q17_binary_tree_inorder_traversal.cpp)\
+**Q18.** [Check whether BST contains dead end](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) [(Solution)](/Trees/Q18_check_whether_bst_contains_dead_end.cpp)
