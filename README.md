@@ -93,4 +93,5 @@
 **Q13.** [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) [(Solution)](/Trees/Q13_minimum_absolute_difference_in_bst.cpp)\
 **Q14.** [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) [(Solution - IMP)](/Trees/Q14_sum_of_left_leaves.cpp)\
 **Q15.** [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) [(Solution - V.IMP)](/Trees/Q15_balanced_binary_tree.cpp)\
-**Q16.** [Predecessor And Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) [(Solution)](/Trees/Q16_predecessor_and_successor.cpp)
+**Q16.** [Predecessor And Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) [(Solution)](/Trees/Q16_predecessor_and_successor.cpp)\
+**Q17.** [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [(Solution)](/Trees/Q17_binary_tree_inorder_traversal.cpp)
