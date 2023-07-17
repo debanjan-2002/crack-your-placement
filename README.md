@@ -100,4 +100,5 @@
 **Q20.** [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [(Solution - V.V.V.IMP)](/Trees/Q20_lowest_common_ancestor_of_a_binary_tree.cpp)\
 **Q21.** [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) [(Solution - DP + Catalan Number - V.V.V.IMP)](/Trees/Q21_unique_binary_search_trees_II.cpp)\
 **Q22.** [All nodes distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) [(Solution - Parent Pointer + BFS - V.V.V.IMP)](/Trees/Q22_all_nodes_distance_k_in_binary_tree.cpp)\
-**Q23.** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Solution - V.IMP)](/Trees/Q23_validate_binary_search_tree.cpp)
+**Q23.** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Solution - V.IMP)](/Trees/Q23_validate_binary_search_tree.cpp)\
+**Q24.** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [(Solution - BFS - V.IMP)](/Trees/Q24_binary_tree_right_side_view.cpp)
