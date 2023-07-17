@@ -98,4 +98,5 @@
 **Q18.** [Check whether BST contains dead end](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) [(Solution)](/Trees/Q18_check_whether_bst_contains_dead_end.cpp)\
 **Q19.** [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [(Solution - Iterative In-order Traversal)](/Trees/Q19_binary_search_tree_iterator.cpp)\
 **Q20.** [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [(Solution - V.V.V.IMP)](/Trees/Q20_lowest_common_ancestor_of_a_binary_tree.cpp)\
-**Q21.** [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) [(Solution - DP + Catalan Number - V.V.V.IMP)](/Trees/Q21_unique_binary_search_trees_II.cpp)
+**Q21.** [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) [(Solution - DP + Catalan Number - V.V.V.IMP)](/Trees/Q21_unique_binary_search_trees_II.cpp)\
+**Q22.** [All nodes distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) [(Solution - Parent Pointer + BFS - V.V.V.IMP)](/Trees/Q22_all_nodes_distance_k_in_binary_tree.cpp)
