@@ -102,4 +102,5 @@
 **Q22.** [All nodes distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) [(Solution - Parent Pointer + BFS - V.V.V.IMP)](/Trees/Q22_all_nodes_distance_k_in_binary_tree.cpp)\
 **Q23.** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [(Solution - V.IMP)](/Trees/Q23_validate_binary_search_tree.cpp)\
 **Q24.** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [(Solution - BFS - V.IMP)](/Trees/Q24_binary_tree_right_side_view.cpp)\
-**Q25.** [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) [(Solution - DSU - IMP)](/Trees/Q25_redundant_connection.cpp)
+**Q25.** [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) [(Solution - DSU - IMP)](/Trees/Q25_redundant_connection.cpp)\
+**Q26.** [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [(Solution)](/Trees/Q26_binary_tree_level_order_traversal.cpp)
