@@ -104,4 +104,5 @@
 **Q24.** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [(Solution - BFS - V.IMP)](/Trees/Q24_binary_tree_right_side_view.cpp)\
 **Q25.** [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) [(Solution - DSU - IMP)](/Trees/Q25_redundant_connection.cpp)\
 **Q26.** [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [(Solution)](/Trees/Q26_binary_tree_level_order_traversal.cpp)\
-**Q27.** [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) [(Solution - DFS + Hashing - V.V.IMP)](/Trees/Q27_path_sum_III.cpp)
+**Q27.** [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) [(Solution - DFS + Hashing - V.V.IMP)](/Trees/Q27_path_sum_III.cpp)\
+**Q28.** [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) [(Solution - V.IMP)](/Trees/Q28_construct_binary_tree_from_preorder_and_postorder_traversal.cpp)
