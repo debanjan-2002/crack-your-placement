@@ -53,4 +53,4 @@ public:
 
 // Time Complexity  : O(n) 
 // Space Complexity : O(h)
-// where h is the width of the tree
+// where h is the height of the tree
