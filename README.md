@@ -109,4 +109,5 @@
 **Q29.** [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) [(Solution - DP + Catalan Number - V.V.V.IMP)](/Trees/Q29_unique_binary_Search_trees.cpp)\
 **Q30.** [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) [(Solution - Inorder Traversal - V.IMP)](/Trees/Q30_recover_binary_search_tree.cpp)\
 **Q31.** [Populating Next Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) [(Solution - V.V.IMP)](/Trees/Q31_populating_next_pointers_in_each_node.cpp)\
-**Q32.** [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) [(Solution - V.V.IMP)](/Trees/Q32_flatten_binary_tree_to_linked_list.cpp)
+**Q32.** [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) [(Solution - V.V.IMP)](/Trees/Q32_flatten_binary_tree_to_linked_list.cpp)\
+**Q33.** [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) [(Solution - BFS + Node numbering - V.V.IMP)](/Trees/Q33_maximum_width_of_binary_tree.cpp)
