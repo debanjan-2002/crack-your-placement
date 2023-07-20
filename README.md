@@ -113,4 +113,5 @@
 **Q33.** [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) [(Solution - BFS + Node numbering - V.V.IMP)](/Trees/Q33_maximum_width_of_binary_tree.cpp)\
 **Q34.** [Minimum Distance between two nodes of Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1) [(Solution - LCA Application)](/Trees/Q34_min_distance_between_two_given_nodes_of_a_binary_tree.cpp)\
 **Q35.** [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [(Solution)](/Trees/Q35_kth_smallest_element_in_a_bst.cpp)\
-**Q36.** [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [(Solution - IMP)](/Trees/Q36_binary_tree_zigzag_level_order_traversal.cpp)
+**Q36.** [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [(Solution - IMP)](/Trees/Q36_binary_tree_zigzag_level_order_traversal.cpp)\
+**Q37.** [Count BST Nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) [(Solution)](/Trees/Q37_count_bst_nodes_that_lie_in_a_given_range.cpp)
