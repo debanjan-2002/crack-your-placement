@@ -116,4 +116,5 @@
 **Q36.** [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [(Solution - IMP)](/Trees/Q36_binary_tree_zigzag_level_order_traversal.cpp)\
 **Q37.** [Count BST Nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) [(Solution)](/Trees/Q37_count_bst_nodes_that_lie_in_a_given_range.cpp)\
 **Q38.** [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1) [(Solution)](/Trees/Q38_preorder_to_postorder.cpp)\
-**Q39.** [Binary Tree to Doubly Linked List (DLL)](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1) [(Solution - V.V.IMP)](/Trees/Q39_binary_tree_to_dll.cpp)
+**Q39.** [Binary Tree to Doubly Linked List (DLL)](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1) [(Solution - V.V.IMP)](/Trees/Q39_binary_tree_to_dll.cpp)\
+**Q40.** [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [(Solution - Similar approach to diameter of BT - V.V.V.IMP)](/Trees/Q40_binary_tree_maximum_path_sum.cpp)
