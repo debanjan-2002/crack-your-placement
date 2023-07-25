@@ -121,3 +121,7 @@
 **Q43.** [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [(Solution - V.V.V.IMP)](/Trees/Q43_vertical_order_traversal_of_a_binary_tree.cpp)\
 **Q44.** [Print K Sum Paths in Binary Tree](https://practice.geeksforgeeks.org/problems/k-sum-paths/1) [(Solution - V.V.IMP)](/Trees/Q44_print_k_sum_paths_binary_tree.cpp)\
 **Q47.** [Largest BST in Binary Tree](https://practice.geeksforgeeks.org/problems/largest-bst/1) [(Solution - V.V.V.IMP)](/Trees/Q47_largest_bst_in_binary_tree.cpp)
+
+### Graphs
+
+**Q1.** [BFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Solution)](/Graphs/Q1_bfs_traversal_of_graph.cpp)
