@@ -125,4 +125,5 @@
 ### Graphs
 
 **Q1.** [BFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) [(Solution)](/Graphs/Q1_bfs_traversal_of_graph.cpp)\
-**Q2.** [DFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Solution)](/Graphs/Q2_dfs_traversal_of_graph.cpp)
+**Q2.** [DFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Solution)](/Graphs/Q2_dfs_traversal_of_graph.cpp)\
+**Q3.** [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) [(Solution - V.IMP)](/Graphs/Q3_number_of_islands.cpp)
