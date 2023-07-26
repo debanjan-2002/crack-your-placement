@@ -128,4 +128,5 @@
 **Q2.** [DFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [(Solution)](/Graphs/Q2_dfs_traversal_of_graph.cpp)\
 **Q3.** [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) [(Solution - V.IMP)](/Graphs/Q3_number_of_islands.cpp)\
 **Q4.** [Flood Fill](https://leetcode.com/problems/flood-fill/description/) [(Solution - V.V.IMP)](/Graphs/Q4_flood_fill.cpp)\
-**Q5.** [Rat in a Maze problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) [(Solution - V.V.IMP)](/Graphs/Q5_rat_in_a_maze_problem.cpp)
+**Q5.** [Rat in a Maze problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) [(Solution - V.V.IMP)](/Graphs/Q5_rat_in_a_maze_problem.cpp)\
+**Q6.** [Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) [(Solution - V.IMP)](/Graphs/Q6_detect_cycle_in_an_undirected_graph.cpp)
