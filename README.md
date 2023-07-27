@@ -133,4 +133,5 @@
 **Q7.** [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) [(Solution - V.IMP)](/Graphs/Q7_detect_cycle_in_a_directed_graph.cpp)\
 **Q8.** [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) [(Solution - V.IMP)](/Graphs/Q8_steps_by_knight.cpp)\
 **Q9.** [Decode String](https://leetcode.com/problems/decode-string/description/) [(Solution - Recursion - IMP)](/Graphs/Q9_decode_string.cpp)\
-**Q10.** [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [(Solution - DFS + Multisource BFS)](/Graphs/Q10_shortest_bridge.cpp)
+**Q10.** [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [(Solution - DFS + Multisource BFS)](/Graphs/Q10_shortest_bridge.cpp)\
+**Q11.** [Number of Operations to make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [(Solution - V.IMP)](/Graphs/Q11_number_of_operations_to_make_network_connected.cpp)
