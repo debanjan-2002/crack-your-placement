@@ -132,4 +132,5 @@
 **Q6.** [Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) [(Solution - V.IMP)](/Graphs/Q6_detect_cycle_in_an_undirected_graph.cpp)\
 **Q7.** [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) [(Solution - V.IMP)](/Graphs/Q7_detect_cycle_in_a_directed_graph.cpp)\
 **Q8.** [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) [(Solution - V.IMP)](/Graphs/Q8_steps_by_knight.cpp)\
-**Q9.** [Decode String](https://leetcode.com/problems/decode-string/description/) [(Solution - Recursion - IMP)](/Graphs/Q9_decode_string.cpp)
+**Q9.** [Decode String](https://leetcode.com/problems/decode-string/description/) [(Solution - Recursion - IMP)](/Graphs/Q9_decode_string.cpp)\
+**Q10.** [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [(Solution - DFS + Multisource BFS)](/Graphs/Q10_shortest_bridge.cpp)
