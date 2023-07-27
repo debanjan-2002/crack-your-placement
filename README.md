@@ -131,4 +131,5 @@
 **Q5.** [Rat in a Maze problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) [(Solution - V.V.IMP)](/Graphs/Q5_rat_in_a_maze_problem.cpp)\
 **Q6.** [Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) [(Solution - V.IMP)](/Graphs/Q6_detect_cycle_in_an_undirected_graph.cpp)\
 **Q7.** [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) [(Solution - V.IMP)](/Graphs/Q7_detect_cycle_in_a_directed_graph.cpp)\
-**Q8.** [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) [(Solution - V.IMP)](/Graphs/Q8_steps_by_knight.cpp)
+**Q8.** [Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) [(Solution - V.IMP)](/Graphs/Q8_steps_by_knight.cpp)\
+**Q9.** [Decode String](https://leetcode.com/problems/decode-string/description/) [(Solution - Recursion - IMP)](/Graphs/Q9_decode_string.cpp)
