@@ -139,4 +139,5 @@
 **Q13.** [Strongly Connected Components (Kosaraju Algorithm)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) [(Solution - Kosaraju's Algorithm - Special Algorithm)](/Graphs/Q13_strongly_connected_components.cpp)\
 **Q14.** [Time Needed to Inform all Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) [(Solution - BFS - V.IMP)](/Graphs/Q14_time_needed_to_inform_all_employees.cpp)\
 **Q15.** [Graph Coloring Problem (Bipartite Graph)](https://leetcode.com/problems/is-graph-bipartite/description/) [(Solution - V.V.V.IMP)](/Graphs/Q15_graph_coloring.cpp)\
-**Q16.** [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) [(Solution)](/Graphs/Q16_most_stones_removed_with_same_row_or_column.cpp)
+**Q16.** [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) [(Solution)](/Graphs/Q16_most_stones_removed_with_same_row_or_column.cpp)\
+**Q17.** [As far as from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) [(Solution - Reverse Multisource BFS - V.IMP)](/Graphs/Q17_as_far_from_land_as_possible.cpp)
