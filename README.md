@@ -140,4 +140,5 @@
 **Q14.** [Time Needed to Inform all Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) [(Solution - BFS - V.IMP)](/Graphs/Q14_time_needed_to_inform_all_employees.cpp)\
 **Q15.** [Graph Coloring Problem (Bipartite Graph)](https://leetcode.com/problems/is-graph-bipartite/description/) [(Solution - V.V.V.IMP)](/Graphs/Q15_graph_coloring.cpp)\
 **Q16.** [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) [(Solution)](/Graphs/Q16_most_stones_removed_with_same_row_or_column.cpp)\
-**Q17.** [As far as from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) [(Solution - Reverse Multisource BFS - V.IMP)](/Graphs/Q17_as_far_from_land_as_possible.cpp)
+**Q17.** [As far as from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) [(Solution - Reverse Multisource BFS - V.IMP)](/Graphs/Q17_as_far_from_land_as_possible.cpp)\
+**Q18.** [Find the City with the Smallest number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) [(Solution - Shortest Path Algorithm - Dijkstra/Floyd/BellmanFord)](/Graphs/Q18_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.cpp)
