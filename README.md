@@ -146,4 +146,5 @@
 **Q20.** [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) [(Solution - Prim's/Kruskal's Algorithm - V.V.V.IMP)](/Graphs/Q20_minimum_spanning_tree.cpp)\
 **Q21.** [Floyd Warshall Algorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) [(Solution - All Pair Shortest Path Algorithm)](/Graphs/Q21_floyd_warshall_algorithm.cpp)\
 **Q22.** [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) [(Solution - Application of Graph - DFS)](/Graphs/Q22_evaluate_division.cpp)\
-**Q23.** [Snakes and Ladder](https://leetcode.com/problems/snakes-and-ladders/) [(Solution - BFS - V.V.V.IMP)](/Graphs/Q23_snakes_and_ladder.cpp)
+**Q23.** [Snakes and Ladder](https://leetcode.com/problems/snakes-and-ladders/) [(Solution - BFS - V.V.V.IMP)](/Graphs/Q23_snakes_and_ladder.cpp)\
+**Q24.** [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) [(Solution - Kahn's Algorithm/DFS - V.V.IMP)](/Graphs/Q24_topological_sort.cpp)
