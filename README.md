@@ -144,4 +144,5 @@
 **Q18.** [Find the City with the Smallest number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) [(Solution - Shortest Path Algorithm - Dijkstra/Floyd/BellmanFord)](/Graphs/Q18_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.cpp)\
 **Q19.** [Course Schedule](https://leetcode.com/problems/course-schedule/) [(Solution - Topological Sort - Kahn's Algorithm - V.V.IMP)](/Graphs/Q19_course_schedule.cpp)\
 **Q20.** [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) [(Solution - Prim's/Kruskal's Algorithm - V.V.V.IMP)](/Graphs/Q20_minimum_spanning_tree.cpp)\
-**Q21.** [Floyd Warshall Algorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) [(Solution - All Pair Shortest Path Algorithm)](/Graphs/Q21_floyd_warshall_algorithm.cpp)
+**Q21.** [Floyd Warshall Algorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) [(Solution - All Pair Shortest Path Algorithm)](/Graphs/Q21_floyd_warshall_algorithm.cpp)\
+**Q22.** [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) [(Solution - Application of Graph - DFS)](/Graphs/Q22_evaluate_division.cpp)
