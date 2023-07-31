@@ -149,4 +149,5 @@
 **Q23.** [Snakes and Ladder](https://leetcode.com/problems/snakes-and-ladders/) [(Solution - BFS - V.V.V.IMP)](/Graphs/Q23_snakes_and_ladder.cpp)\
 **Q24.** [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) [(Solution - Kahn's Algorithm/DFS - V.V.IMP)](/Graphs/Q24_topological_sort.cpp)\
 **Q25.** [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) [(Solution - Application of Bellman Ford Algorithm)](/Graphs/Q25_cheapest_flights_within_k_stops.cpp)\
-**Q26.** [Negative Weight Cycle](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1) [(Solution - Application of Bellman Ford Algorithm - V.IMP)](/Graphs/Q26_negative_weight_cycle.cpp)
+**Q26.** [Negative Weight Cycle](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1) [(Solution - Application of Bellman Ford Algorithm - V.IMP)](/Graphs/Q26_negative_weight_cycle.cpp)\
+**Q27.** [Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) [(Solution - Graph Coloring)](/Graphs/Q27_bipartite_graph.cpp)
